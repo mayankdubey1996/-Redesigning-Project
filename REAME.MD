@@ -1,0 +1,1 @@
+According to WHO, suicide is the act of killing oneself. The major cause of suicide is mental disorder. Every year approximately 1 million people take their life. I am trying to predict the risk of suicide using various factors. 
